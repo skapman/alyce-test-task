@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="homestead@localhost" uuid="9fd073f6-b10b-4187-8709-dc88c6f7431d">
+      <database-info product="MySQL" version="5.7.27-log" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="2.4.1">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:homestead</introspection-schemas>
+    </data-source>
+  </component>
+</project>
