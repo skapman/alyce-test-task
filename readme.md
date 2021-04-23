@@ -12,6 +12,7 @@ It is very important not only how carefully you will test app, but how you inter
 4. *Optional*  Create test automation with Selenium or whatever tool you like to use
 5. Don't hesitate to contact us if any questions. Use email or skype provided
 6. Modify and create other docs as result of you work. Could be this doc project setup process spec, project features spec doc, release notes.
+7. No time, approach or format limitations.
 
 
 # What can help you to make project running
